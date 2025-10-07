@@ -22,7 +22,7 @@
                 titulo: "Relatório de Acompanhamento BI",
                 descricao: "BI de relatórios de performance",
                 imagem: "assets/img/POWER BI.jpg",
-                url: "https://pe-fortsun.vercel.app/"
+                url: "https://fortsun-bi.up.railway.app/"
             },
             {
                 titulo: "Troca de Vendas",
