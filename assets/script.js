@@ -7,10 +7,10 @@
                 url: "https://drive.google.com/drive/folders/1kS7iYwKMNpFEZXQemcxRzV1fuX870z58?usp=drive_link",
             },
             {
-                titulo: "Solicitação de Máquina",
+                titulo: "Solicitação de Máquina e Reversa",
                 descricao: "Formulário para solicitar equipamentos",
                 imagem: "assets/img/solicitacao-maquinas.jpg",
-                url: "https://solicitar-maquina.vercel.app/"
+                url: "https://sistema-solicitacao-maquinas-production.up.railway.app/"
             },
             {
                 titulo: "Avanço de Máquina",
